@@ -1,5 +1,0 @@
-Hadoop is a big data framework.
-Hadoop stores big data in HDFS.
-MapReduce processes big data.
-Hadoop is useful for big data processing.
-HDFS stores data and MapReduce processes data.
