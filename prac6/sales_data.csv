@@ -1,0 +1,16 @@
+OrderID,Product,Category,Quantity,Price,City
+1001,Laptop,Electronics,2,55000,Ahmedabad
+1002,Mobile,Electronics,5,20000,Vadodara
+1003,Chair,Furniture,4,5000,Surat
+1004,Headphones,Electronics,10,1500,Ahmedabad
+1005,Table,Furniture,3,8000,Rajkot
+1006,Shirt,Fashion,8,1200,Vadodara
+1007,Shoes,Fashion,6,2500,Surat
+1008,Mobile,Electronics,3,20000,Rajkot
+1009,Laptop,Electronics,1,55000,Surat
+1010,Chair,Furniture,5,5000,Ahmedabad
+1011,Jeans,Fashion,7,1800,Rajkot
+1012,Headphones,Electronics,12,1500,Vadodara
+1013,Table,Furniture,2,8000,Surat
+1014,Shirt,Fashion,10,1200,Ahmedabad
+1015,Mobile,Electronics,4,20000,Vadodara
